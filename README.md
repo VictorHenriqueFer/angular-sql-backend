@@ -22,6 +22,6 @@ Contribuição
 Se você deseja contribuir, por favor, abra um pull request. Sua colaboração é bem-vinda!
 
 Contato
-Para mais informações, entre em contato via email: seuemail@example.com
+Para mais informações, entre em contato via email: victorhenriquefernandes2@gmail.com
 
 Aproveite e divirta-se codificando! 🚀👨‍💻👩‍💻
