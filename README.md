@@ -18,10 +18,4 @@ Execução com Docker Compose: No diretório raiz, execute npm run compose:up pa
 Acesso ao Front-end: Acesse http://localhost:4200 em seu navegador.
 Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina para execução do projeto.
 
-Contribuição
-Se você deseja contribuir, por favor, abra um pull request. Sua colaboração é bem-vinda!
-
-Contato
-Para mais informações, entre em contato via email: victorhenriquefernandes2@gmail.com
-
 Aproveite e divirta-se codificando! 🚀👨‍💻👩‍💻
